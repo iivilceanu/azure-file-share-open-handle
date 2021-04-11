@@ -19,3 +19,13 @@ While trying to delete files from Azure File Shares one might encounter the unex
 To view open handles for a file share, directory or file, use the Get-AzStorageFileHandle PowerShell cmdlet.
 
 To close open handles for a file share, directory or file, use the Close-AzStorageFileHandle PowerShell cmdlet.
+
+Prerequisite
+You have a valid Subscription with admin permissions
+A storage account
+An Azure File Share
+
+How to use and run the script:
+
+
+
